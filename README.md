@@ -7,7 +7,7 @@ Bu kütüphane, Arduino ile çeşitli entegreler arasında geçiş yaparak veri 
 - Birden fazla entegre ile çalışabilme
 - Her entegre için 16 kanal desteği
 - Entegrelerin kolayca aktif edilmesi ve devre dışı bırakılması
-- Okuma ve kontrol işlemleri için temiz ve anlaşılır API
+- Okuma ve kontrol işlemleri için temiz ve anlaşılır
 
 ## Kurulum
 
